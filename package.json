@@ -1,0 +1,22 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "firstnode",
+  "main": "index.js",
+  "scripts": {
+    "test": "first"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JemilTP/myFirstGit.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Jemil Pepena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JemilTP/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/JemilTP/myFirstGit#readme"
+}
